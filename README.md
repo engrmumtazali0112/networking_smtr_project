@@ -66,20 +66,32 @@ Port Security: Secures access ports to prevent unauthorized devices from connect
 
 ## 📊 Network Diagram
 <details> <summary>Click to view screenshots</summary>
+System Design
+   
+![10](https://github.com/user-attachments/assets/101dddff-4a2b-48b0-97a4-bfad22a80465)
+
 VLAN Configuration on Switch
+
+![2](https://github.com/user-attachments/assets/2a8cc8ea-15cf-4d20-b85c-9b5bd1ce74bf)
 
 
 Router Subinterface Setup
 
+![7](https://github.com/user-attachments/assets/06220833-fb1d-43fd-a71e-5131d61c9882)
+
 
 DHCP Configuration
 
+![13dhcp configration](https://github.com/user-attachments/assets/705ecc84-0306-4f0f-af5d-bacb8d7274dc)
 
 Inter-VLAN Communication Test
+
+![6](https://github.com/user-attachments/assets/9cbb5914-1381-4bc1-9be0-2774cab0bfd5)
 
 
 Wireless Network Setup
 
+![5](https://github.com/user-attachments/assets/2653c0ff-2180-4a36-983e-c38a15b18192)
 
 </details>
 🤝 Contributing
